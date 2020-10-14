@@ -1,5 +1,4 @@
-# rCCAPSeq
-R library to access CCAPSeq.db
+# R library to access CCAP Sequence database (CCAPSeq.db)
 
 ## Install shiny
 
