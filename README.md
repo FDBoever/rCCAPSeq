@@ -1,4 +1,11 @@
-# R library to access CCAP Sequence database (CCAPSeq.db)
+# R package to access CCAP Sequence database (CCAPSeq.db)
+
+The CCAPSeq database aims to provide a reference database annotated sequences. including SSU and LSU rRNA genes.
+
+## Current Version
+
+<a class="navbar-brand me-2" href="index.html">pr2database</a>
+<small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">4.14.1</small>
 
 ## Install rCCAPSeq
 
