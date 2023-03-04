@@ -4,10 +4,21 @@ The CCAPSeq database aims to provide a reference database annotated sequences. i
 
 ## Current Version
 
-<a class="navbar-brand me-2" href="index.html">pr2database</a>
-<small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">4.14.1</small>
+<a class="navbar-brand me-2" href="index.html">CCAPSeq.db</a>
+<small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">1.3.1</small>
 
-## Install rCCAPSeq
+
+
+
+
+## Getting started
+
+instructions on setting up a local copy of CCAPSeq.db through the rCCAPSeq package in R
+
+###Install rCCAPSeq
+
+Below are two examples of how you can install the R package locally
+
 
 ```r
 devtools::install_github("FDBoever/rCCAPSeq")
@@ -20,10 +31,17 @@ remotes::install_github("FDBoever/rCCAPSeq")
 ```
 
 
-## code example
+## Usage
+
+Load the package from within R using the following code
 
 ```r
 library(rCCAPSeq)
+```
+
+###Code example
+
+```r
 library(ggplot2)
 library(dplyr)
 
