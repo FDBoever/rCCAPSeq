@@ -4,8 +4,7 @@ The CCAPSeq database aims to provide a reference database annotated sequences. i
 
 ## Current Version
 
-<a class="navbar-brand me-2" href="index.html">CCAPSeq.db</a>
-<small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">1.3.1</small>
+![](https://img.shields.io/badge/CCAPSeq.db-v.1.3.1-brightgreen)
 
 
 
@@ -13,9 +12,9 @@ The CCAPSeq database aims to provide a reference database annotated sequences. i
 
 ## Getting started
 
-instructions on setting up a local copy of CCAPSeq.db through the rCCAPSeq package in R
+Instructions on setting up a local copy of CCAPSeq.db through the rCCAPSeq package in R
 
-###Install rCCAPSeq
+### Install rCCAPSeq
 
 Below are two examples of how you can install the R package locally
 
@@ -39,7 +38,7 @@ Load the package from within R using the following code
 library(rCCAPSeq)
 ```
 
-###Code example
+### Code example
 
 ```r
 library(ggplot2)
