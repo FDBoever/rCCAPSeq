@@ -1,10 +1,17 @@
 # R library to access CCAP Sequence database (CCAPSeq.db)
 
-## Install shiny
+## Install rCCAPSeq
 
 ```r
 devtools::install_github("FDBoever/rCCAPSeq")
 ```
+
+or
+
+```r
+remotes::install_github("FDBoever/rCCAPSeq")
+```
+
 
 ## code example
 
