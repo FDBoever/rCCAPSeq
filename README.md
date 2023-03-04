@@ -6,13 +6,7 @@ The CCAPSeq database aims to provide a reference database annotated sequences. i
 
 ![](https://img.shields.io/badge/CCAPSeq.db-v.1.3.1-brightgreen)
 
-
-
-
-
 ## Getting started
-
-Instructions on setting up a local copy of CCAPSeq.db through the rCCAPSeq package in R
 
 ### Install rCCAPSeq
 
